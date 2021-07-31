@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { NativeSafeAreaViewProps } from './SafeArea.types';\nexport declare const SafeAreaView: import(\"react-native\").HostComponent<NativeSafeAreaViewProps>;\n"]},"metadata":{},"sourceType":"module"}

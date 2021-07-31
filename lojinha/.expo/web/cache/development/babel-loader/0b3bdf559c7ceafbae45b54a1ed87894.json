@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import connect from 'connect';\ndeclare const _default: connect.Server;\nexport default _default;\n//# sourceMappingURL=openURLMiddleware.d.ts.map"]},"metadata":{},"sourceType":"module"}

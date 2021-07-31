@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ConfigPlugin } from '../../Plugin.types';\ndeclare const withDocumentPicker: ConfigPlugin;\nexport default withDocumentPicker;\n"]},"metadata":{},"sourceType":"module"}

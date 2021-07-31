@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare const FA5Style: {\n    regular: string;\n    light: string;\n    solid: string;\n    brand: string;\n};\nexport declare function createFA5iconSet(glyphMap: any, metadata: {} | undefined, fonts: any, pro?: boolean): any;\n"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ColorSchemeName } from 'react-native';\nimport { StatusBarStyle } from './StatusBar.types';\nexport default function styleToBarStyle(style?: StatusBarStyle, colorScheme?: ColorSchemeName): 'light-content' | 'dark-content';\n"]},"metadata":{},"sourceType":"module"}

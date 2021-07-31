@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { StatusBarStyle } from './StatusBar.types';\nexport default function setStatusBarStyle(style: StatusBarStyle): void;\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare type InitialProps = {\n    exp: {\n        notification?: any;\n        errorRecovery?: any;\n        [key: string]: any;\n    };\n    shell?: boolean;\n    shellManifestUrl?: string;\n    [key: string]: any;\n};\n"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { useColorScheme as maybeUseColorScheme } from 'react-native';\ndeclare const useColorScheme: typeof maybeUseColorScheme;\nexport default useColorScheme;\n"]},"metadata":{},"sourceType":"module"}

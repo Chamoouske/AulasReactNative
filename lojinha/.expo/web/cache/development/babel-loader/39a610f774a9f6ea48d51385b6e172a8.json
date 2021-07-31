@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { AsyncStorage } from \"react-native-web/dist/index\";\nexport default AsyncStorage;","map":{"version":3,"sources":["../../src/Notifications/Storage.ts"],"names":[],"mappings":"SAAS,Y;AAET,eAAe,YAAf","sourcesContent":["import { AsyncStorage } from 'react-native';\n\nexport default AsyncStorage;\n"],"sourceRoot":""},"metadata":{},"sourceType":"module"}

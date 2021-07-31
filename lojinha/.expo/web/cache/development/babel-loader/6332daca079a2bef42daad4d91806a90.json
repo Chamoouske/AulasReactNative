@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/**\n * Parses a Plist XML string. Returns an Object.\n *\n * @param {String} xml - the XML String to decode\n * @returns {Mixed} the decoded value from the Plist XML\n * @api public\n */\nexport declare function parse(xml: string): any;\n"]},"metadata":{},"sourceType":"script"}

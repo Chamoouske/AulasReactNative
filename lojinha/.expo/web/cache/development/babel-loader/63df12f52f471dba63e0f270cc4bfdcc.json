@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/// <reference types=\"react\" />\nimport { NativeSafeAreaProviderProps } from './SafeArea.types';\nexport declare function CompatNativeSafeAreaProvider({ children, style, onInsetsChange, }: NativeSafeAreaProviderProps): JSX.Element;\n"]},"metadata":{},"sourceType":"module"}

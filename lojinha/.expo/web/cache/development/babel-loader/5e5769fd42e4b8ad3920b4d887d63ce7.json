@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export default function styleToBarStyle(style: \"auto\" | \"inverted\" | \"light\" | \"dark\" | undefined, colorScheme: 'light' | 'dark'): 'light-content' | 'dark-content';\n"]},"metadata":{},"sourceType":"module"}

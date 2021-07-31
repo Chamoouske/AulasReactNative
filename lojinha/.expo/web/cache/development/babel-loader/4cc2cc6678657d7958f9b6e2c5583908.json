@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { AndroidSplashScreenConfigJSON } from '../SplashScreenConfig';\nexport default function configureAndroid(projectRootPath: string, configJSON: AndroidSplashScreenConfigJSON): Promise<void>;\n"]},"metadata":{},"sourceType":"module"}

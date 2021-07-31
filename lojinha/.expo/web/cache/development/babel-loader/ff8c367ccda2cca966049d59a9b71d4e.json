@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ConfigPlugin } from '../../Plugin.types';\nexport declare const withNotifications: ConfigPlugin;\nexport default withNotifications;\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from 'react-native/Libraries/Image/AssetRegistry';","map":{"version":3,"sources":["../src/AssetRegistry.ts"],"names":[],"mappings":"AAAA,cAAc,4CAAd","sourcesContent":["export * from 'react-native/Libraries/Image/AssetRegistry';\n"],"sourceRoot":""},"metadata":{},"sourceType":"module"}

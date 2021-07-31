@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ConfigPlugin } from '@expo/config-plugins';\n/**\n * Resolves static plugins array as config plugin functions.\n *\n * @param config\n * @param projectRoot\n */\nexport declare const withConfigPlugins: ConfigPlugin;\n"]},"metadata":{},"sourceType":"module"}

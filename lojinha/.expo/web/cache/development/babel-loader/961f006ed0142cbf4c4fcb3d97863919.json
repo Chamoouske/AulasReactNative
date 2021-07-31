@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { IosSplashScreenConfigJSON } from '../SplashScreenConfig';\nexport default function configureIos(projectRootPath: string, config: IosSplashScreenConfigJSON): Promise<void>;\n"]},"metadata":{},"sourceType":"module"}

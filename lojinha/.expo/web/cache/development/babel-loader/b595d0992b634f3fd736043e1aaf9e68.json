@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare function downloadOrUseCachedImage(url: string): Promise<string>;\nexport declare function downloadImage(url: string): Promise<string>;\n"]},"metadata":{},"sourceType":"script"}

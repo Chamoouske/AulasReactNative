@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./paths\";\nexport * from \"./extensions\";","map":{"version":3,"sources":["/home/chamoouske/Aulas/ReactNative/RandomWord/node_modules/@expo/config/build/paths/index.d.ts"],"names":[],"mappings":"AAAA;AACA","sourcesContent":["export * from './paths';\nexport * from './extensions';\n"]},"metadata":{},"sourceType":"module"}

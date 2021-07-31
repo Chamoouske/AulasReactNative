@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare function guardPermission(): void;\nexport declare function getExponentPushTokenAsync(): Promise<string>;\nexport declare function getDevicePushTokenAsync(): Promise<{\n    type: string;\n    data: object;\n}>;\n"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ProxyNativeModule } from './NativeModulesProxy.types';\ndeclare const NativeModulesProxy: {\n    [moduleName: string]: ProxyNativeModule;\n};\nexport default NativeModulesProxy;\n"]},"metadata":{},"sourceType":"module"}

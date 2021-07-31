@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ExpoConfig } from './Config.types';\n/**\n * Should the bundler use .expo file extensions.\n *\n * @param exp\n */\nexport declare function isLegacyImportsEnabled(exp: Pick<ExpoConfig, 'sdkVersion'>): boolean;\n"]},"metadata":{},"sourceType":"module"}

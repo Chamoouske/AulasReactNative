@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { StatusBarAnimation } from './StatusBar.types';\nexport default function setStatusBarHidden(hidden: boolean, animation: StatusBarAnimation): void;\n"]},"metadata":{},"sourceType":"module"}

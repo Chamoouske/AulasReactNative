@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare type ProxyNativeModule = {\n    [propertyName: string]: any;\n    addListener: (eventName: string) => void;\n    removeListeners: (count: number) => void;\n};\n"]},"metadata":{},"sourceType":"script"}

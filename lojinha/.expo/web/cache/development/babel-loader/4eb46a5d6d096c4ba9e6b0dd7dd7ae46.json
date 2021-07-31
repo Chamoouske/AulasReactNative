@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { Metrics } from './SafeArea.types';\nexport declare const initialWindowMetrics: Metrics | null;\n/**\n * @deprecated\n */\nexport declare const initialWindowSafeAreaInsets: import(\"./SafeArea.types\").EdgeInsets | undefined;\n"]},"metadata":{},"sourceType":"module"}

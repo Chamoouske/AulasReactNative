@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"./environment/react-native-logs.fx\";","map":{"version":3,"sources":["/home/chamoouske/Aulas/ReactNative/RandomWord/node_modules/expo/build/Expo.fx.web.d.ts"],"names":[],"mappings":"AAAA","sourcesContent":["import './environment/react-native-logs.fx';\n"]},"metadata":{},"sourceType":"module"}

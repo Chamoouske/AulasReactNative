@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ExportedConfig } from '../Plugin.types';\nexport declare function withBaseMods(config: ExportedConfig): ExportedConfig;\nexport declare function resolveModResults(results: any, platformName: string, modName: string): any;\n"]},"metadata":{},"sourceType":"module"}

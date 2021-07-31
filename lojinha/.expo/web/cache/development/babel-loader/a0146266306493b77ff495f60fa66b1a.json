@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { DatabaseCallback } from './SQLite.types';\nexport declare function openDatabase(name: string, version?: string, description?: string, size?: number, callback?: DatabaseCallback): import(\"./SQLite.types\").Database;\n"]},"metadata":{},"sourceType":"module"}

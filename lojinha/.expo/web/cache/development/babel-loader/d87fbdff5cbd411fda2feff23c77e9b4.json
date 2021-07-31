@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ConfigPlugin } from '../../Plugin.types';\nexport declare const withUpdates: ConfigPlugin<{\n    expoUsername: string;\n}>;\nexport default withUpdates;\n"]},"metadata":{},"sourceType":"module"}

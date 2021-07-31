@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import React from 'react';\n/**\n * A drop-in replacement for `requireNativeComponent`.\n */\nexport declare function requireNativeViewManager<P = any>(viewName: string): React.ComponentType<P>;\n"]},"metadata":{},"sourceType":"module"}

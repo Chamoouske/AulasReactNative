@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/**\n * Defines a small polyfill for process.nextTick. Eventually we'd like to replace this polyfill with\n * a native implementation with the correct timing semantics.\n */\n"]},"metadata":{},"sourceType":"script"}

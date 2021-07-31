@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from 'react-native-web/dist/modules/AssetRegistry';","map":{"version":3,"sources":["/home/chamoouske/Aulas/ReactNative/RandomWord/node_modules/expo-asset/src/AssetRegistry.web.ts"],"names":[],"mappings":"AAAA,cAAc,6CAAd","sourcesContent":["export * from 'react-native-web/dist/modules/AssetRegistry';\n"]},"metadata":{},"sourceType":"module"}

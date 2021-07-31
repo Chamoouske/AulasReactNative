@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/// <reference types=\"react\" />\nimport { NativeSafeAreaViewProps } from './SafeArea.types';\nexport declare function SafeAreaView({ style, mode, edges, ...rest }: NativeSafeAreaViewProps): JSX.Element;\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare function initialize(): void;\ndeclare const stripeModule: any;\nexport default stripeModule;\n"]},"metadata":{},"sourceType":"module"}

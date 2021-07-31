@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ConfigPlugin } from '../../Plugin.types';\nexport declare const withAdMob: ConfigPlugin;\nexport default withAdMob;\n"]},"metadata":{},"sourceType":"module"}

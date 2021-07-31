@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { View } from 'react-native';\nexport declare const SafeAreaView: typeof View;\n"]},"metadata":{},"sourceType":"module"}

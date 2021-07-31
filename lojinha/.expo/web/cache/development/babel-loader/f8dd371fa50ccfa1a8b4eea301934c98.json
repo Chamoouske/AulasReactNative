@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Linking from \"react-native-web/dist/exports/Linking\";\nexport default Linking;","map":{"version":3,"sources":["../src/ExpoLinking.ts"],"names":[],"mappings":";AACA,eAAe,OAAf","sourcesContent":["import { Linking } from 'react-native';\nexport default Linking;\n"],"sourceRoot":""},"metadata":{},"sourceType":"module"}

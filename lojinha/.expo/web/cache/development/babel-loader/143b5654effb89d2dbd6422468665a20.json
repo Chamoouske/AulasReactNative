@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["declare const _default: () => import(\"commander\").Command;\nexport default _default;\n"]},"metadata":{},"sourceType":"module"}

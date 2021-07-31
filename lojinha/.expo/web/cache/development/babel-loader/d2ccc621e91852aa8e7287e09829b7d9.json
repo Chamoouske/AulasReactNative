@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import * as React from 'react';\nimport { InitialProps } from './withExpoRoot.types';\nexport default function withExpoRoot<P extends InitialProps>(AppRootComponent: React.ComponentType<P>): React.ComponentType<P>;\n"]},"metadata":{},"sourceType":"module"}

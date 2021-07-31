@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/// <reference types=\"node\" />\nexport declare function generateAsync(buffers: Buffer[]): Promise<Buffer>;\n"]},"metadata":{},"sourceType":"script"}

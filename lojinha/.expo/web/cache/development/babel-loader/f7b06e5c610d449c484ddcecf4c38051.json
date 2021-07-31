@@ -1,0 +1,1 @@
+{"ast":null,"code":"import View from \"react-native-web/dist/exports/View\";\nexport var SafeAreaView = View;","map":{"version":3,"sources":["SafeAreaView.macos.tsx"],"names":["SafeAreaView"],"mappings":";AAEA,OAAO,IAAMA,YAAY,GAAlB,IAAA","sourcesContent":["import { View } from 'react-native';\n\nexport const SafeAreaView = View;\n"]},"metadata":{},"sourceType":"module"}

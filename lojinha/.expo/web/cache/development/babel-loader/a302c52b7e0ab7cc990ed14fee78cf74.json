@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export declare function getRecoveryPropsToSave(): string | null;\nexport declare function setRecoveryPropsToSave(props: {\n    [key: string]: any;\n}): void;\n"]},"metadata":{},"sourceType":"script"}

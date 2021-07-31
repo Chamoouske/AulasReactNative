@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { ExponentFileSystemModule } from './FileSystem.types';\ndeclare const platformModule: ExponentFileSystemModule;\nexport default platformModule;\n"]},"metadata":{},"sourceType":"module"}
